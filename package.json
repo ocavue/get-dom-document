@@ -1,6 +1,6 @@
 {
   "name": "get-dom-document",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "type": "commonjs",
   "main": "./lib/get-dom-document.node.js",
   "module": "./lib/get-dom-document.node.mjs",
@@ -22,7 +22,7 @@
   "author": "ocavue <ocavue@gmail.com>",
   "license": "MIT",
   "funding": "https://github.com/sponsors/ocavue",
-  "homepage": "https://github.com/ocavue/get-dom-document",  
+  "homepage": "https://github.com/ocavue/get-dom-document",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/ocavue/get-dom-document.git"
