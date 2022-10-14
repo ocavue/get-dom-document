@@ -1,6 +1,6 @@
 {
   "name": "get-dom-document",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "type": "commonjs",
   "main": "./lib/get-dom-document.node.js",
   "module": "./lib/get-dom-document.node.mjs",
