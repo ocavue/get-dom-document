@@ -1,6 +1,6 @@
 {
   "name": "get-dom-document",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "type": "commonjs",
   "main": "./lib/get-dom-document.node.js",
   "browser": "./lib/get-dom-document.browser.js",
